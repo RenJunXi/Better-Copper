@@ -1,4 +1,4 @@
-package org.renjunxi.mod.bettercopper;
+package com.renjunxi.mod.bettercopper;
 
 import net.minecraft.item.Item;
 import net.minecraft.item.PickaxeItem;

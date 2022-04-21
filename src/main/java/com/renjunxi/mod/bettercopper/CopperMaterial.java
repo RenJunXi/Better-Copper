@@ -1,4 +1,4 @@
-package org.renjunxi.mod.bettercopper;
+package com.renjunxi.mod.bettercopper;
 
 import net.minecraft.item.*;
 import net.minecraft.recipe.Ingredient;
@@ -7,7 +7,7 @@ public class CopperMaterial  implements ToolMaterial {
     public static CopperMaterial INSTANCE = new CopperMaterial();
     @Override
     public int getDurability() {
-        return 120;
+        return 200;
     }
 
     @Override
@@ -17,7 +17,7 @@ public class CopperMaterial  implements ToolMaterial {
 
     @Override
     public float getAttackDamage() {
-        return 7;
+        return 0;
     }
 
     @Override
@@ -27,7 +27,7 @@ public class CopperMaterial  implements ToolMaterial {
 
     @Override
     public int getEnchantability() {
-        return 15;
+        return 22;
     }
 
     @Override

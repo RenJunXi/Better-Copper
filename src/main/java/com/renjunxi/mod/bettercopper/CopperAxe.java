@@ -1,4 +1,4 @@
-package org.renjunxi.mod.bettercopper;
+package com.renjunxi.mod.bettercopper;
 
 import net.minecraft.item.AxeItem;
 import net.minecraft.item.Item;
